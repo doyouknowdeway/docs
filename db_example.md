@@ -33,10 +33,21 @@ items:
 	<name>,
 	<description>,
 	<per_hour_cost>,
-	<per_day_cost>
 	<season_type>,
 	<age_type>,
 	<count>
+```
+
+```
+season_type:
+	<id>,
+	<name>
+```
+
+```
+age_type:
+	<id>,
+	<name>
 ```
 
 ### Таблица общего заказа
@@ -44,6 +55,7 @@ items:
 order:
 	<id>,
 	<profile_id>,
+	<status_id>
 	<order_time>,
 	<dest_time>,
 	<exp_time>,
@@ -51,6 +63,11 @@ order:
 ```
 >	<total_price> = (exp_time - dest_time) * rent_item.item_id.per_hour_cost
 
+```
+order_status:
+	<id>,
+	<name>
+```
 
 ### Таблица аренды товара
 ```
