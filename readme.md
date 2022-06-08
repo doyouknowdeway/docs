@@ -17,3 +17,4 @@
 **Таск менеджер**: [trello](https://trello.com/b/0S0E4ObT/sports-equipment-rent) \
 **API документация**: [Swagger](https://app.swaggerhub.com/apis/katseliv/sports-equipment-rent/1.0.0) \
 **Google диск с видео**: [Google диск](https://drive.google.com/drive/folders/16ZM1yzYwVSphHK3J6uWa7C5PNFbDZ1ct)
+**Аналитика**: [Яндекс Метрика](https://metrika.yandex.ru/dashboard?group=dekaminute&period=today&id=88673146)
