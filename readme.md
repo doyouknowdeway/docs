@@ -2,13 +2,22 @@
 
 Данный репозиторий предназначен для хранения общих документов проекта "Прокат спортивного инвентаря "Sportiq".
 
-**Веб-приложение**: [sportiq](https://doyouknowdeway-webapp.herokuapp.com)
+**Веб-приложение**: [sportiq](http://45.147.160.96:8084/catalog)
 
 ## Команда разработчиков
 
 - Селиванова Е.А.
 - Пилеич М.К.
 - Шакайло А.Е.
+
+## Документация
+
+[Курсовой проект.pdf](https://github.com/doyouknowdeway/docs/blob/main/Kursovoy%20proyekt.pdf)
+[Курсовой проект.docx](https://github.com/doyouknowdeway/docs/blob/main/Kursovoy%20proyekt.docx)
+[Техническое задание.pdf](https://github.com/doyouknowdeway/docs/blob/main/Tekhnicheskoe_zadanie.pdf)
+[Техническое задание.docx](https://github.com/doyouknowdeway/docs/blob/main/Tekhnicheskoe_zadanie.docx)
+[Презентация.pdf](https://github.com/doyouknowdeway/docs/blob/main/Presentation.pdf)
+[Презентация.docx](https://github.com/doyouknowdeway/docs/blob/main/Presentation.pptx)
 
 
 ## Ссылки
